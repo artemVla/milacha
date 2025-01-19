@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <title>КОТИКИ!!!</title>
+        <link rel="stylesheet" href="stylee.css">
+    </head>
+    <body>
+        <header>
+            <p><img class="a"src="https://w7.pngwing.com/pngs/579/388/png-transparent-emoji-whatsapp-emoticon-smiley-emoji-face-smiley-sticker-thumbnail.png">привет</p>
+        </header>
+        <main>
+            <h1>Здравствуйте!</h1>
+            <h2>Если ты любишь миленьких и очаровательных кошечек то тебе сюда</h2>
+            <img class="b" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFMiGzHy0BbLoZSThltXkoFU72e_h_nWR5tw&s"><img class="b" src="https://masterpiecer-images.s3.yandex.net/28e27a8b716b11eeb674f6c574779d3e:upscaled" width="225px">
+            <p>
+                <img class="d" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1N4GxVtawE_W8agIuJHzZYwpLr49NRs70Vw&s" width="450px">
+            </p>
+            <p>
+                <table>
+                    <tr>
+                        <td class="c" colspan="2"><i>кошка</i></td>
+                    </tr>
+                    <tr>
+                        <td class="c">+ плюсы +</td>
+                        <td class="c">- минусы -</td>
+                    </tr>
+                    <tr>
+                        <td>ласкается</td>
+                        <td>бъёт</td>
+                    </tr>
+                    <tr>
+                        <td>поддержит</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>много спит(не мешает)</td>
+                        <td>ночью бегает(мешает)</td>
+                    </tr>
+                </table>
+            </p>
+            <h3>а эти картинки я дарю тебе</h3>
+            <img class="b"src="https://cs5.pikabu.ru/post_img/big/2015/02/09/5/1423465189_508470519.jpg">
+            <img class="b"src="https://masterpiecer-images.s3.yandex.net/034c607e54b111eea6f4badf81d486ab:upscaled">
+            <img class="b" src="https://cs14.pikabu.ru/post_img/big/2023/02/24/6/167722648018112107.jpg">
+            
+        </main>
+        <foter>
+            <p>Я очень люблю кошек<br/>Конец сайта</p>
+        </foter>
+    </body>
+</html>
